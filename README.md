@@ -72,11 +72,11 @@
 
 <!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
 
-<a href="https://www.linkedin.com/in/vaibhavkakkar15/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vaibhavkakkar15/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vaibhavkakkar15-blue?style=flat-square&logo=linkedin"></a>
 
 <!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
  -->
-<a href="mailto:developervaibhav15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:developervaibhav15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-developervaibhav15-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
